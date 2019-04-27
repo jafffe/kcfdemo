@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KCFcameral", "KCFcameral\KCFcameral.vcxproj", "{87E6A317-AE66-4915-AB61-EC0CC3573A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Debug|Win32.Build.0 = Debug|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Debug|x64.ActiveCfg = Release|x64
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Debug|x64.Build.0 = Release|x64
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Debug|x86.Build.0 = Debug|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Release|Win32.ActiveCfg = Release|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Release|Win32.Build.0 = Release|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Release|x64.ActiveCfg = Debug|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Release|x64.Build.0 = Debug|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Release|x86.ActiveCfg = Release|Win32
+		{87E6A317-AE66-4915-AB61-EC0CC3573A8D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70FB9AE1-3A94-458C-93BB-3FD7E266E1E2}
+	EndGlobalSection
+EndGlobal

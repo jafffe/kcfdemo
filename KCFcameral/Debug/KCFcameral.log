@@ -1,0 +1,92 @@
+﻿  kcftracker.cpp
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\labdata.hpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(100): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(108): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(109): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(117): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(118): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(120): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(131): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(132): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(146): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(147): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(181): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(182): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(220): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(221): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(333): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(354): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(355): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(363): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(364): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(394): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(395): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(398): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(399): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(458): warning C4244: “+=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(492): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(494): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(522): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  runtracker.cpp
+  正在生成代码...
+  KCFcameral.vcxproj -> C:\Users\jaffe\source\repos\KCFcameral\Debug\KCFcameral.exe

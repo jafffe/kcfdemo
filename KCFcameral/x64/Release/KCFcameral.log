@@ -1,0 +1,116 @@
+﻿  fhog.cpp
+  kcftracker.cpp
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\labdata.hpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(100): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(108): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(109): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(117): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(118): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(120): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(131): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(132): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(146): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(147): warning C4305: “=”: 从“double”到“float”截断
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(181): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(182): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(220): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(221): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(333): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(354): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(355): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(363): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(364): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(394): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(395): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(398): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(399): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(458): warning C4244: “+=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(492): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(494): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\jaffe\source\repos\kcfcameral\kcfcameral\kcftracker.cpp(522): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  runtracker.cpp
+  stdafx.cpp
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::dft(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?dft@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::mulSpectrums(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &,int,bool)" (?mulSpectrums@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@H_N@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::magnitude(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &)" (?magnitude@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "public: class cv::MatExpr __cdecl cv::Mat::mul(class cv::_InputArray const &,double)const " (?mul@Mat@cv@@QEBA?AVMatExpr@2@AEBV_InputArray@2@N@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl cv::Mat::convertTo(class cv::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QEBAXAEBV_OutputArray@2@HNN@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "class cv::_InputOutputArray const & __cdecl cv::noArray(void)" (?noArray@cv@@YAAEBV_InputOutputArray@1@XZ)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::subtract(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &,class cv::_InputArray const &,int)" (?subtract@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@0H@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "class cv::Scalar_<double> __cdecl cv::sum(class cv::_InputArray const &)" (?sum@cv@@YA?AV?$Scalar_@N@1@AEBV_InputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::merge(class cv::Mat const *,unsigned __int64,class cv::_OutputArray const &)" (?merge@cv@@YAXPEBVMat@1@_KAEBV_OutputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::merge(class cv::_InputArray const &,class cv::_OutputArray const &)" (?merge@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::log(class cv::_InputArray const &,class cv::_OutputArray const &)" (?log@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::add(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &,class cv::_InputArray const &,int)" (?add@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@0H@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::exp(class cv::_InputArray const &,class cv::_OutputArray const &)" (?exp@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::max(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &)" (?max@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::copyMakeBorder(class cv::_InputArray const &,class cv::_OutputArray const &,int,int,int,int,int,class cv::Scalar_<double> const &)" (?copyMakeBorder@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HHHHHAEBV?$Scalar_@N@1@@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::minMaxLoc(class cv::_InputArray const &,double *,double *,class cv::Point_<int> *,class cv::Point_<int> *,class cv::_InputArray const &)" (?minMaxLoc@cv@@YAXAEBV_InputArray@1@PEAN1PEAV?$Point_@H@1@20@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::resize(class cv::_InputArray const &,class cv::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?resize@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@V?$Size_@H@1@NNH@Z)
+kcftracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::split(class cv::_InputArray const &,class cv::_OutputArray const &)" (?split@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@@Z)
+runtracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@1@@Z)
+runtracker.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl cv::VideoCapture::read(class cv::_OutputArray const &)" (?read@VideoCapture@cv@@UEAA_NAEBV_OutputArray@2@@Z)
+runtracker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::rectangle(class cv::_InputOutputArray const &,class cv::Point_<int>,class cv::Point_<int>,class cv::Scalar_<double> const &,int,int,int)" (?rectangle@cv@@YAXAEBV_InputOutputArray@1@V?$Point_@H@1@1AEBV?$Scalar_@N@1@HHH@Z)
+C:\Users\jaffe\source\repos\KCFcameral\x64\Release\KCFcameral.exe : fatal error LNK1120: 23 个无法解析的外部命令
